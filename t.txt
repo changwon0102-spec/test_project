@@ -1,2 +1,2 @@
-좋은아침!
-master branch에서 수정
+좋은 아침!
+branch에서 수정
